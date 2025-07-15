@@ -2,14 +2,14 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "萌新dark的博客"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/author.jpg"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -20,8 +20,9 @@ title = "Blowfish"
    image = "img/author.jpg"
    imageQuality = 96
    headline = "漫漫秋日 如提琴长叹 我心暗伤"
-   bio = "廣ク會議ヲ興シ、萬機公論ニ決スベシ"
+   bio = "漫漫秋日 如提琴长叹 我心暗伤"
    links = [
      { steam = "https://steamcommunity.com/id/darknight2333/" },
+     { email = "mailto:forsterjerome58@gmail.com" },
      { x-twitter = "https://x.com/dark1087863" }
    ]
