@@ -1,0 +1,27 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/author.jpg"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+ [params.author]
+   name = "萌新dark"
+   email = "forsterjerome58@gmail.com"
+   image = "img/author.jpg"
+   imageQuality = 96
+   headline = "漫漫秋日 如提琴长叹 我心暗伤"
+   bio = "廣ク會議ヲ興シ、萬機公論ニ決スベシ"
+   links = [
+     { steam = "https://steamcommunity.com/id/darknight2333/" },
+     { x-twitter = "https://x.com/dark1087863" }
+   ]
