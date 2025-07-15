@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "萌新dark的博客"
+title = "萌新dark"
 
 [params]
   displayName = "EN"
